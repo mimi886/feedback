@@ -9,6 +9,9 @@ function Header({text}) {
     </header>
   );
 }
+
+
+ /*  I will make changes here   */
     Header.defaultProps = {
         text: 'Feedback UI'
     }
